@@ -25,13 +25,6 @@ This heatmap shows the peak time to rent a bike during each day of the week.
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/90434010/147888424-13af1776-74db-4d87-b4f9-3a57485bdb99.PNG)
 This heatmap shows the breakdown of the same previous results but adding in a dimension of gender. 
 
-
-Length of time bikes are checked out for all riders and genders
-
-Number of bike trips for all riders and genders for each hour of each day of the week
-
-Number of bike trips for each type of user and gender for each day of the week
-
 ## Summary
 Most of the users are subscribers and it appears males have a higher propensity of being subscribers. Starting and ending locations seem to be pretty similar. Most of the
 rentals are in 5-10 minute intervals, with almost all of them being less than an hour. Males make up two-thirds of all the riders. The peak rental times on weekdays is both at
