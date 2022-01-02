@@ -1,4 +1,5 @@
 # NYC Bike-sharing Analysis
+[link to dashboard](https://public.tableau.com/app/profile/melanie.thelen/viz/NYCBikeshareMT/NYCBikeShare?publish=yes)
 
 ## Overview
 The purpose of this analysis is to determine if a bike-sharing business would be applicable in Des Moines, Iowa.
